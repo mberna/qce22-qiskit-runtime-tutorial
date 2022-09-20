@@ -11,7 +11,7 @@ We assume that [git](https://git-scm.com/) is installed.  As a first step, clone
 
 ```sh
 $ git clone https://github.com/mberna/qce22-qiskit-runtime-tutorial.git
-$ cd ieee-qce22-qiskit-runtime-primitives-tutorial
+$ cd qce22-qiskit-runtime-tutorial
 ```
 
 The remainder of this document will assume you are in the root directory of the repository.
@@ -58,7 +58,7 @@ $ pip install -r requirements.txt
 Run the [`hello_world.py`](docs/hello_world.py) script to verify your installation:
 
 ```shell script
-$ python3 ./hello_world.py
+$ python3 ./docs/hello_world.py
 ```
 
 This script will prompt you for your IBM Quantum token, unless you had previously saved it on disk.
