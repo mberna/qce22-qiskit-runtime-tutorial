@@ -10,7 +10,7 @@ Instructions can be found at the [Qiskit IBM Runtime](https://github.com/Qiskit/
 We assume that [git](https://git-scm.com/) is installed.  As a first step, clone the repository and enter the clone's directory:
 
 ```sh
-$ git clone https://github.com/mberna/ieee-qce22-qiskit-runtime-primitives-tutorial.git
+$ git clone https://github.com/mberna/qce22-qiskit-runtime-tutorial.git
 $ cd ieee-qce22-qiskit-runtime-primitives-tutorial
 ```
 
