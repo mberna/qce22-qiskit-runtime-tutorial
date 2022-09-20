@@ -58,7 +58,7 @@ $ pip install -r requirements.txt
 Run the [`hello_world.py`](docs/hello_world.py) script to verify your installation:
 
 ```shell script
-$ python3 ./hello_world.py
+$ python3 ./docs/hello_world.py
 ```
 
 This script will prompt you for your IBM Quantum token, unless you had previously saved it on disk.
